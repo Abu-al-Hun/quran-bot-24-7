@@ -22,7 +22,7 @@ This Discord bot is designed to play audio ( quran ) from YouTube playlists in a
 1. Clone this repository:
 
 ```
-git clone https://github.com/wickstudio/stage-quran-bot.git
+git clone gh repo clone Abu-al-Hun/quran-bot-24-7
 ```
 
 2. Install the required dependencies:
